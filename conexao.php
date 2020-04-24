@@ -21,10 +21,10 @@ define('HOST', 'localhost');
 
 //CONEXAO HOSPEDADA
 
-define('BD', 'appfinaceiro');
-define('USER', 'abraao');
-define('SENHA', 'tv84361033');
-define('HOST', 'mysql669.umbler.com');
+define('BD', 'gxro80s41bhliuv3');
+define('USER', 'xhhf3tbt916na77s');
+define('SENHA', 'zqjj4c8ytlrapnc3');
+define('HOST', 'mzj2x67aktl2o6q2n.cbetxkdyhwsb.us-east-1.rds.amazonaws.com');
 
 $mysqli = new mysqli(HOST, USER, SENHA, BD);
 
